@@ -9,7 +9,7 @@ namespace HairdresserProject.Models
             : base(options)
         {
         }
-
+        //gfhfjkj
         // Burada tablolarınızı tanımlayabilirsiniz
         // public DbSet<ModelAdi> Tablolar { get; set; }
     }
